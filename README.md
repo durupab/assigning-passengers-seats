@@ -1,6 +1,6 @@
 # assigning-passengers-seats
-assigning passengers to seats on bus
--------------details----------------
+assigning passengers to seats on bus.
+Details ->
 40 passengers whose distances from each other are random decimal numbers are determined. 
 The names of the passengers are in the name.txt file. 
 One of these 40 passengers is randomly placed in the first seat of a bus.
